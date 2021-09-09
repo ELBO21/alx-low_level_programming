@@ -3,8 +3,9 @@
 /**
  *add - Adds two integer number
  *
- *@num1: integer1 
- *@num2: integer2
+ *@num1: integer one
+ *
+ *@num2: integer two
  *
  *Return: num1 + num2
  */
