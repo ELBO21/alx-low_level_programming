@@ -3,6 +3,8 @@
  * main - Entry point
  *
  * return: return (0) success
+ *
+ * description: print a string using _putchar
  */
 
 int main(void)
