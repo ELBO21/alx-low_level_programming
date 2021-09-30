@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - entry point
+ *main - starting point
  *
  *Return: Aways (0)
  */
