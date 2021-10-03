@@ -1,15 +1,14 @@
 #include "main.h"
 /**
  **_strcat - Concatenates two strings
- *@dest: Destnation
- *@src: Source 
+ *@dest: Destnation string
+ *@src: Source string
  *Return: dest
  */
 
 char *_strcat(char *dest, char *src)
 {
-	int i, j;
-	int length;
+	int i, j, length;
 
 	length = 0;
 	for (i = 0; dest[i] != '\0'; i++)

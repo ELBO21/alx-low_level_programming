@@ -1,9 +1,10 @@
 #include "main.h"
 /**
  * *_strncpy - copies the string pointed to by src, including the terminating
- *@dest: Destnation 
- *@src: Source 
- *@n: redundance
+ *null byte (\0), to the buffer pointed to by dest
+ *@dest: Destnation string
+ *@src: Source string
+ *@n: limit integer
  *Return: dest
  */
 
