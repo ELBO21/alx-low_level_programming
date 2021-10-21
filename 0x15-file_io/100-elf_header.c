@@ -182,9 +182,9 @@ void check_sys(char *ptr)
 }
 
 /**
- * check_elf - check if it is an elf file.
+ * check_elf - check elf file.
  * @ptr: magic.
- * Return: 1 if it is an elf file. 0 if not.
+ * Return: if it is an elf file return 1, else 0 
  */
 int check_elf(char *ptr)
 {
